@@ -1,0 +1,120 @@
+D:/intelFPGA_pro/PA3/Part3/FinalCPU.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/FinalCPU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module FinalCPU
+
+Top level modules:
+	FinalCPU
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/ALU.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/EXMEM.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/EXMEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module EXMEM
+
+Top level modules:
+	EXMEM
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/ForwardUnit.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/ForwardUnit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module ForwardUnit
+
+Top level modules:
+	ForwardUnit
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/tb_FinalCPU.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/tb_FinalCPU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module tb_FinalCPU
+
+Top level modules:
+	tb_FinalCPU
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/Mux_3to1.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/Mux_3to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Mux_3to1
+
+Top level modules:
+	Mux_3to1
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/MEMWB.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/MEMWB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module MEMWB
+
+Top level modules:
+	MEMWB
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/RF.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/RF.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/Adder.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/Adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Adder
+
+Top level modules:
+	Adder
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/HazardUnit.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/HazardUnit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module HazardUnit
+
+Top level modules:
+	HazardUnit
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/ALU_Control.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/ALU_Control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module ALU_Control
+
+Top level modules:
+	ALU_Control
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/IDEX.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/IDEX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module IDEX
+
+Top level modules:
+	IDEX
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/IFID.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/IFID.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module IFID
+
+Top level modules:
+	IFID
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/IM.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/IM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/Mux_32bits.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/Mux_32bits.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Mux_32bits
+
+Top level modules:
+	Mux_32bits
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/Control.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/Control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} D:/intelFPGA_pro/PA3/Part3/DM.v {1 {vlog -work work -stats=none D:/intelFPGA_pro/PA3/Part3/DM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.3 Compiler 2020.07 Jul 22 2020
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}}

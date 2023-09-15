@@ -1,0 +1,347 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/intelFPGA_pro/PA3/Part1
+vAdder
+Z0 !s110 1623500051
+!i10b 1
+!s100 Jgdzk@gU[U;0macZPFbPH3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Id?ZZcUbPdiQKe[]N0jjAG1
+Z2 dD:/intelFPGA_pro/PA3/Part2
+w1619667792
+8D:/intelFPGA_pro/PA3/Part2/Adder.v
+FD:/intelFPGA_pro/PA3/Part2/Adder.v
+!i122 2
+L0 1 7
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z5 !s108 1623500051.000000
+!s107 D:/intelFPGA_pro/PA3/Part2/Adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/Adder.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@adder
+vALU
+Z8 !s110 1623500052
+!i10b 1
+!s100 hJVa@QaoDWeXA=>oGj^0Z1
+R1
+I:6zBGZe]QI]Q7O@FGZT6g3
+R2
+w1615554627
+8D:/intelFPGA_pro/PA3/Part2/ALU.v
+FD:/intelFPGA_pro/PA3/Part2/ALU.v
+!i122 3
+L0 1 26
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/intelFPGA_pro/PA3/Part2/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vALU_Control
+R8
+!i10b 1
+!s100 E:]`Ef_^]e0<MQ0E^8=c63
+R1
+IWR0cGIX1_9U:dFgE;:1TM0
+R2
+w1619584668
+8D:/intelFPGA_pro/PA3/Part2/ALU_Control.v
+FD:/intelFPGA_pro/PA3/Part2/ALU_Control.v
+!i122 4
+L0 1 19
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1623500052.000000
+!s107 D:/intelFPGA_pro/PA3/Part2/ALU_Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/ALU_Control.v|
+!i113 1
+R6
+R7
+n@a@l@u_@control
+vControl
+R8
+!i10b 1
+!s100 iPVUI1Ih;HAHCVh:WbWSF1
+R1
+IZ>z?Tz`8YXL;ODCTR^[a21
+R2
+w1623485339
+8D:/intelFPGA_pro/PA3/Part2/Control.v
+FD:/intelFPGA_pro/PA3/Part2/Control.v
+!i122 5
+Z10 L0 1 15
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA_pro/PA3/Part2/Control.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/Control.v|
+!i113 1
+R6
+R7
+n@control
+vDM
+R0
+!i10b 1
+!s100 l>`]acJYY4Tl<Pj84F0<[2
+R1
+IaX:f0?j]eMORA4V>5<j1D2
+R2
+w1619668134
+8D:/intelFPGA_pro/PA3/Part2/DM.v
+FD:/intelFPGA_pro/PA3/Part2/DM.v
+!i122 1
+L0 35 24
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/intelFPGA_pro/PA3/Part2/DM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/DM.v|
+!i113 1
+R6
+R7
+n@d@m
+vEXMEM
+R8
+!i10b 1
+!s100 QMM?hQna=5U6MIHbUOQmV3
+R1
+I=U<0:MN@kTU7OgnK4Be[K1
+R2
+w1623486421
+8D:/intelFPGA_pro/PA3/Part2/EXMEM.v
+FD:/intelFPGA_pro/PA3/Part2/EXMEM.v
+!i122 6
+L0 1 18
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA_pro/PA3/Part2/EXMEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/EXMEM.v|
+!i113 1
+R6
+R7
+n@e@x@m@e@m
+vI_PipelineCPU
+!s110 1623652485
+!i10b 1
+!s100 ^eB2]DWWGU9?WlY]URG[<3
+R1
+I^[MbiOhe4Cz;bm79^Lfed1
+R2
+w1623644149
+8D:/intelFPGA_pro/PA3/Part2/I_PipelineCPU.v
+FD:/intelFPGA_pro/PA3/Part2/I_PipelineCPU.v
+!i122 15
+L0 29 62
+R3
+R4
+r1
+!s85 0
+31
+!s108 1623652485.000000
+!s107 D:/intelFPGA_pro/PA3/Part2/I_PipelineCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/I_PipelineCPU.v|
+!i113 1
+R6
+R7
+n@i_@pipeline@c@p@u
+vIDEX
+R8
+!i10b 1
+!s100 iG??n^7A]Z@ZS8Nmjj:e_1
+R1
+IgSjohPjaCTVh0Z4PM5OgY0
+R2
+w1623485729
+8D:/intelFPGA_pro/PA3/Part2/IDEX.v
+FD:/intelFPGA_pro/PA3/Part2/IDEX.v
+!i122 7
+L0 1 24
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA_pro/PA3/Part2/IDEX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/IDEX.v|
+!i113 1
+R6
+R7
+n@i@d@e@x
+vIFID
+R8
+!i10b 1
+!s100 TfZ9cDhPR;Qf;oN<>Z@jR1
+R1
+I9ML2YBkMm=l4bL]V2X`972
+R2
+w1623480343
+8D:/intelFPGA_pro/PA3/Part2/IFID.v
+FD:/intelFPGA_pro/PA3/Part2/IFID.v
+!i122 8
+L0 1 8
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA_pro/PA3/Part2/IFID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/IFID.v|
+!i113 1
+R6
+R7
+n@i@f@i@d
+vIM
+R8
+!i10b 1
+!s100 jXObnLcW2CiXfV3J7aJMY2
+R1
+I6OPVLMO?1a:4I20P_B6kR1
+R2
+w1623477967
+8D:/intelFPGA_pro/PA3/Part2/IM.v
+FD:/intelFPGA_pro/PA3/Part2/IM.v
+!i122 10
+L0 35 9
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA_pro/PA3/Part2/IM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/IM.v|
+!i113 1
+R6
+R7
+n@i@m
+vMEMWB
+R8
+!i10b 1
+!s100 diCkm69aHZX=V_gLZY@8o2
+R1
+Il7KmO<nLlj=MC5X9RDWaW2
+R2
+w1623486035
+8D:/intelFPGA_pro/PA3/Part2/MEMWB.v
+FD:/intelFPGA_pro/PA3/Part2/MEMWB.v
+!i122 9
+R10
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA_pro/PA3/Part2/MEMWB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/MEMWB.v|
+!i113 1
+R6
+R7
+n@m@e@m@w@b
+vMux_32bits
+!s110 1623500053
+!i10b 1
+!s100 D^Nck0k76QS?[aC@0?<;?3
+R1
+IczNA3LlfO1_5iB<X08[`j2
+R2
+w1619616774
+8D:/intelFPGA_pro/PA3/Part2/Mux_32bits.v
+FD:/intelFPGA_pro/PA3/Part2/Mux_32bits.v
+!i122 12
+L0 1 6
+R3
+R4
+r1
+!s85 0
+31
+!s108 1623500053.000000
+!s107 D:/intelFPGA_pro/PA3/Part2/Mux_32bits.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/Mux_32bits.v|
+!i113 1
+R6
+R7
+n@mux_32bits
+vRF
+R8
+!i10b 1
+!s100 iGd8>=8CL=C@f^79095oF2
+R1
+IRghLa[DhP6dMM<Tb^K6>O1
+R2
+w1623477931
+8D:/intelFPGA_pro/PA3/Part2/RF.v
+FD:/intelFPGA_pro/PA3/Part2/RF.v
+!i122 11
+L0 35 16
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 D:/intelFPGA_pro/PA3/Part2/RF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/RF.v|
+!i113 1
+R6
+R7
+n@r@f
+vtb_I_PipelineCPU
+R0
+!i10b 1
+!s100 o<7bzQ?5?P56M[e@66S1_3
+R1
+I`;`_hXIE<7=TT4eGTB2FO3
+R2
+w1622061372
+8D:/intelFPGA_pro/PA3/Part2/tb_I_PipelineCPU.v
+FD:/intelFPGA_pro/PA3/Part2/tb_I_PipelineCPU.v
+!i122 0
+L0 49 101
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/intelFPGA_pro/PA3/Part2/tb_I_PipelineCPU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/intelFPGA_pro/PA3/Part2/tb_I_PipelineCPU.v|
+!i113 1
+R6
+R7
+ntb_@i_@pipeline@c@p@u
